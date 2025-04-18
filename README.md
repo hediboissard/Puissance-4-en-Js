@@ -17,7 +17,11 @@ Bienvenue sur le projet **Puissance 4** développé dans le cadre d’un test po
 - Design adapté aux écrans mobiles
 
 ## 🧱 Structure du projet
-/puissance4 │ ├── index.html # Structure HTML de la page ├── style.css # Feuille de style CSS pour l'apparence ├── script.js # Logique JavaScript pour le jeu └── /images └── logo-mobile-800.jpg
+/puissance4 │ 
+├── index.html # Structure HTML de la page 
+├── style.css # Feuille de style CSS pour l'apparence 
+├── script.js # Logique JavaScript pour le jeu 
+├── logo-mobile-800.jpg
 
 ## 🖥️ Déploiement local
 
