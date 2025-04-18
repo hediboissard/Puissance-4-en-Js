@@ -4,7 +4,7 @@ Bienvenue sur le projet **Puissance 4** développé dans le cadre d’un test po
 
 ## 📸 Aperçu
 
-![Aperçu du jeu]![image](https://github.com/user-attachments/assets/3da66493-7987-4f17-90c2-4eabd56bf5d7)
+[image](https://github.com/user-attachments/assets/3da66493-7987-4f17-90c2-4eabd56bf5d7)
 
 
 ## 🚀 Fonctionnalités
