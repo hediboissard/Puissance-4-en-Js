@@ -37,5 +37,9 @@ Le jeu s'adapte automatiquement aux petits écrans, notamment via :
 
 -Des styles spécifiques via media queries
 
-✏️ Auteur
+## 📬 Contact
+
+Pour toute question ou retour : boissardhedi@gmail.com
+
+## ✏️ Auteur
 Ce projet a été développé par moi même.
