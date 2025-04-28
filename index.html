@@ -12,15 +12,13 @@
     <script src="script.js"></script>
   </head>
   <body>
-    <img src="/images/logo-mobile-800.jpg" alt="DOTSCREEN LOGO" />
     <h1>Jeu du puissance 4</h1>
-    <input
-      type="button"
-      onclick="window.location.reload(false)"
-      class="btn"
-      value="Rejouer ?"
-    />
     <h2 id="gagnant"></h2>
     <div id="piece"></div>
+    <div id="overlay"></div>
+      <div id="popup">
+        <h2 id="popup-message"></h2>
+        <button class="btn" onclick="closePopup()">Rejouer ?</button>
+      </div>
   </body>
 </html>

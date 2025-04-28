@@ -133,3 +133,28 @@ function setWinner(r, c) {
   }
   gameOver = true;
 }
+
+function setWinner(r, c) {
+  let winnerText = piece[r][c] == playerRed ? "Les Rouges Gagnent" : "Les Jaunes Gagnent";
+  showPopup(winnerText);
+  gameOver = true;
+}
+
+function showPopup(message) {
+  let popup = document.getElementById("popup");
+  let overlay = document.getElementById("overlay");
+  let winnerMessage = document.getElementById("popup-message");
+
+  winnerMessage.innerText = message;
+  popup.style.display = "block";
+  overlay.style.display = "block";
+}
+
+function closePopup() {
+  let popup = document.getElementById("popup");
+  let overlay = document.getElementById("overlay");
+
+  popup.style.display = "none";
+  overlay.style.display = "none";
+  window.location.reload();
+}
